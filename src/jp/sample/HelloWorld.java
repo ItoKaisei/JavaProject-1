@@ -8,7 +8,7 @@ public class HelloWorld {
 		data[0] = "学籍番号：趣味";
 		data[1] = "";
 		data[2] = "";
-		data[3] = "";
+		data[3] = "4161103:運動すること";
 		data[4] = "";
 		data[5] = "";
 		data[6] = "";
@@ -42,7 +42,7 @@ public class HelloWorld {
 		data[34] = "";
 		data[35] = "";
 		data[36] = "";
-		data[37] = "おわり";
+		data[37] = "終わり";
 
 		for (int i = 0;i < data.length; ++i) {
 			System.out.println(data[i]);
